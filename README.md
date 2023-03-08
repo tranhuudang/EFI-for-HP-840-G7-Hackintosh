@@ -1,4 +1,4 @@
-EFI for HP Elitebook 850 G7 - Monterey 
+EFI for HP Elitebook 840 G7 - Monterey 
 =============
 
 
